@@ -2,13 +2,13 @@
 
 
 
-WG Working Group                                              Y. N. Here
-Internet-Draft                                    Your Organization Here
+WG Working Group                                             W. Bartlett
+Internet-Draft                                                 Microsoft
 Intended status: Informational                             24 April 2026
 Expires: 26 October 2026
 
 
-                           TODO - Your title
+                         Well-Known Subdomains
                   draft-todo-yourname-protocol-latest
 
 Abstract
@@ -109,6 +109,6 @@ Acknowledgments
 
 Author's Address
 
-   Your Name Here
-   Your Organization Here
-   Email: your.email@example.com
+   Will Bartlett
+   Microsoft
+   Email: wibartle@microsoft.com
